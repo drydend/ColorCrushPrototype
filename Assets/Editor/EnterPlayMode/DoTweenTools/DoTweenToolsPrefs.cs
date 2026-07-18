@@ -1,0 +1,16 @@
+﻿using Project.Editor.Utilities;
+using UnityEditor;
+
+namespace Project.Editor.EnterPlayMode.DoTweenTools {
+    public sealed class DoTweenToolsPrefs {
+        private const string _IS_ENABLE_BOOT_SCENE = "DoTweenTools_IsEnableDoTweenRestart";
+        
+        public void SaveIsEnable(bool value) {
+            EditorPrefs.SetBool($"{ProjectUtility.project}_{_IS_ENABLE_BOOT_SCENE}", value);
+        }
+        
+        public bool LoadIsEnable() {
+            return EditorPrefs.GetBool($"{ProjectUtility.project}_{_IS_ENABLE_BOOT_SCENE}", true);
+        }
+    }
+}

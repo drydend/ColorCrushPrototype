@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 692f24474d9440ba84ac434e245489a2, type: 3}
+  m_Name: AudioParameters
+  m_EditorClassIdentifier: Assembly-CSharp::Services.Audio.Configs.AudioParameters
+  <music>k__BackingField:
+    <clip>k__BackingField: {fileID: 8300000, guid: 800d5f23ed3d0df41969640ee39fc692, type: 3}
+    <mixer>k__BackingField: {fileID: 24300002, guid: 84dfe7b4d0f4eea4083988b85f4e8caa, type: 2}
+    <volume>k__BackingField: 0.535
+  <shootSound>k__BackingField:
+    <clip>k__BackingField: {fileID: 8300000, guid: 83b010beac241594fac25b9ba9d376a1, type: 3}
+    <mixer>k__BackingField: {fileID: 24300002, guid: 2b70f694be3e1be44abe366917b9e4a6, type: 2}
+    <volume>k__BackingField: 0.5
+  <buttonClick>k__BackingField:
+    <clip>k__BackingField: {fileID: 8300000, guid: a5783bb260a22f046b4360a7a0bc8ae0, type: 3}
+    <mixer>k__BackingField: {fileID: 24300002, guid: 2b70f694be3e1be44abe366917b9e4a6, type: 2}
+    <volume>k__BackingField: 0.7
+  <turretSelect>k__BackingField:
+    <clip>k__BackingField: {fileID: 8300000, guid: ddf63370b81c2984e98a22aff7403cb7, type: 3}
+    <mixer>k__BackingField: {fileID: 24300002, guid: 2b70f694be3e1be44abe366917b9e4a6, type: 2}
+    <volume>k__BackingField: 1
+  <lose>k__BackingField:
+    <clip>k__BackingField: {fileID: 8300000, guid: 510dc4893d83f2f4495139d345159b96, type: 3}
+    <mixer>k__BackingField: {fileID: 24300002, guid: 2b70f694be3e1be44abe366917b9e4a6, type: 2}
+    <volume>k__BackingField: 1
+  <win>k__BackingField:
+    <clip>k__BackingField: {fileID: 8300000, guid: 3480aa9d08a77a04a93c07df78fa2eb2, type: 3}
+    <mixer>k__BackingField: {fileID: 24300002, guid: 2b70f694be3e1be44abe366917b9e4a6, type: 2}
+    <volume>k__BackingField: 1
+  <sources>k__BackingField:
+    <single>k__BackingField: {fileID: -2003571919990400328, guid: 11b51360d7fb491992a787fa6e359e4e, type: 3}
+    <loop>k__BackingField: {fileID: -2003571919990400328, guid: 95a7eed5c127470c9191d003f8be12fa, type: 3}
+  <mixers>k__BackingField:
+    <music>k__BackingField: {fileID: 24100000, guid: 84dfe7b4d0f4eea4083988b85f4e8caa, type: 2}
+    <soundScaled>k__BackingField: {fileID: 24100000, guid: a4bb7ca8ba2dde64187f0ffa889f0a46, type: 2}
+    <soundUnscaled>k__BackingField: {fileID: 24100000, guid: 2b70f694be3e1be44abe366917b9e4a6, type: 2}
+  <distanceMin>k__BackingField: 0.05
+  <distanceMax>k__BackingField: 7.5

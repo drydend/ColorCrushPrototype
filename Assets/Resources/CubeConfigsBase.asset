@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b75f8ccb447b4de7886a60e0b8ab6106, type: 3}
+  m_Name: CubeConfigsBase
+  m_EditorClassIdentifier: Assembly-CSharp::Cubes.CubeSpritePalette
+  <presets>k__BackingField:
+  - <id>k__BackingField: 0
+    <color>k__BackingField: 0
+    <cube>k__BackingField: {fileID: 8841813000210169547, guid: ca3ab9158b46b7340bc24b141255c543, type: 3}
+    <health>k__BackingField: 1
+    <previewColor>k__BackingField: {r: 0.4566037, g: 0.4566037, b: 0.4566037, a: 1}
+  - <id>k__BackingField: 1
+    <color>k__BackingField: 1
+    <cube>k__BackingField: {fileID: 4956839392826477939, guid: 6d2d797b01467a149961be7571b3506d, type: 3}
+    <health>k__BackingField: 1
+    <previewColor>k__BackingField: {r: 0.7509433, g: 0, b: 0, a: 1}
+  - <id>k__BackingField: 2
+    <color>k__BackingField: 2
+    <cube>k__BackingField: {fileID: 4956839392826477939, guid: 0f00dcb069b17f941a4d8a39695ce92d, type: 3}
+    <health>k__BackingField: 1
+    <previewColor>k__BackingField: {r: 0.12093263, g: 0.33940142, b: 0.8113208, a: 1}
+  - <id>k__BackingField: 3
+    <color>k__BackingField: 3
+    <cube>k__BackingField: {fileID: 4956839392826477939, guid: dd8249af688d95a46a5b86e720ccdf24, type: 3}
+    <health>k__BackingField: 1
+    <previewColor>k__BackingField: {r: 0, g: 0.7132075, b: 0.0880977, a: 1}
+  - <id>k__BackingField: 4
+    <color>k__BackingField: 4
+    <cube>k__BackingField: {fileID: 4956839392826477939, guid: 1f0c289b34a11154a85f7ad20c3da66a, type: 3}
+    <health>k__BackingField: 1
+    <previewColor>k__BackingField: {r: 0.87169814, g: 0, b: 0.5136166, a: 1}
+  - <id>k__BackingField: 5
+    <color>k__BackingField: 5
+    <cube>k__BackingField: {fileID: 4956839392826477939, guid: 68bcca6fa99b8914f9f9f41a6ee6db31, type: 3}
+    <health>k__BackingField: 1
+    <previewColor>k__BackingField: {r: 0.5471698, g: 0.3811019, b: 0, a: 1}
+  - <id>k__BackingField: 6
+    <color>k__BackingField: 6
+    <cube>k__BackingField: {fileID: 4956839392826477939, guid: a660a773dd5c57b46b10818f693864c8, type: 3}
+    <health>k__BackingField: 1
+    <previewColor>k__BackingField: {r: 1, g: 0.9879074, b: 0, a: 1}

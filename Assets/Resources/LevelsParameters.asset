@@ -1,0 +1,2942 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46c6a022c8aa417f8b2366b09f8adcd9, type: 3}
+  m_Name: LevelsParameters
+  m_EditorClassIdentifier: Assembly-CSharp::Levels.Parameters.LevelsParameters
+  <levels>k__BackingField:
+  - <width>k__BackingField: 10
+    <height>k__BackingField: 30
+    <layers>k__BackingField:
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+    <turretsGrid>k__BackingField:
+      <spotsCount>k__BackingField: 3
+      <rows>k__BackingField:
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 40
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+  - <width>k__BackingField: 10
+    <height>k__BackingField: 30
+    <layers>k__BackingField:
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+    <turretsGrid>k__BackingField:
+      <spotsCount>k__BackingField: 4
+      <rows>k__BackingField:
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+  - <width>k__BackingField: 10
+    <height>k__BackingField: 30
+    <layers>k__BackingField:
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+    <turretsGrid>k__BackingField:
+      <spotsCount>k__BackingField: 4
+      <rows>k__BackingField:
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 40
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 40
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+  - <width>k__BackingField: 10
+    <height>k__BackingField: 30
+    <layers>k__BackingField:
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 4
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 6
+        - <id>k__BackingField: 4
+    <turretsGrid>k__BackingField:
+      <spotsCount>k__BackingField: 4
+      <rows>k__BackingField:
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 4
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 6
+          <durability>k__BackingField: 20
+  - <width>k__BackingField: 10
+    <height>k__BackingField: 30
+    <layers>k__BackingField:
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+    - <rows>k__BackingField:
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 2
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 1
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+      - <cubes>k__BackingField:
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 5
+        - <id>k__BackingField: 3
+        - <id>k__BackingField: 3
+    <turretsGrid>k__BackingField:
+      <spotsCount>k__BackingField: 4
+      <rows>k__BackingField:
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+      - <turrets>k__BackingField:
+        - <color>k__BackingField: 1
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 2
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 3
+          <durability>k__BackingField: 20
+        - <color>k__BackingField: 5
+          <durability>k__BackingField: 20
